@@ -8,10 +8,10 @@
 
     <LinearLayout
         android:id="@+id/linearLayout1"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
+        android:layout_width="204dp"
+        android:layout_height="209dp"
         android:layout_marginTop="5dp"
-        android:background="@drawable/ic_launcher_background"
+        android:background="@drawable/LP"
         android:orientation="horizontal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

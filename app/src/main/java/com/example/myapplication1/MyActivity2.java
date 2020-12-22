@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.EditText;
 
 public class MyActivity2 extends AppCompatActivity {
-    //Intent intent;
+    Intent intent;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
